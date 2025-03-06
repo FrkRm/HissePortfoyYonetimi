@@ -12,7 +12,7 @@ Hisse Yönetim Portföyü, kullanıcıların hisselerini takip etmelerini, alım
 Uygulama paketlenmiş **EXE** formatında sunulmaktadır. Kurulum gerektirmeden doğrudan çalıştırabilirsiniz.  
 
 ### 1️⃣ **İndirme ve Çalıştırma**  
-📥 **[Hisse Yönetim Portföyü İndir]([PROJE_INDIRME_LINKI_BURADA](https://github.com/FrkRm/HissePortfoyYonetimi/releases/download/HissePortfoyYonetimi1.1/HissePortfoyYonetimi1.1.exe))**  
+📥 **[Hisse Yönetim Portföyü İndir]([https://github.com/FrkRm/HissePortfoyYonetimi/releases/download/HissePortfoyYonetimi1.1/HissePortfoyYonetimi1.1.exe])**  
 
 - Dosyayı indirin ve **çalıştırın**.  
 - Program açıldığında hisselerinizi eklemeye başlayabilirsiniz.  
@@ -29,4 +29,4 @@ python PORTFOY1.1.py
  ![Ana Sayfa](EkranGörüntüsü.png)
 
 ## 📩 İletişim & Katkıda Bulunma  
-Herhangi bir geri bildirimin varsa veya projeye katkıda bulunmak istersen, [GitHub üzerinden issue açabilirsin]([GITHUB_PROJE_LINKI_BURADA](https://github.com/FrkRm/HissePortfoyYonetimi)).  
+Herhangi bir geri bildirimin varsa veya projeye katkıda bulunmak istersen, [GitHub üzerinden issue açabilirsin]([https://github.com/FrkRm/HissePortfoyYonetimi)
