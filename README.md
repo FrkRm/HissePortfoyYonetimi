@@ -26,7 +26,7 @@ python PORTFOY1.1.py
 ```
 
 ## 📷 Ekran Görüntüleri  
- ![Ana Sayfa]([EkranGörüntüsü.png))
+ ![Ana Sayfa](EkranGörüntüsü.png)
 
 ## 📩 İletişim & Katkıda Bulunma  
 Herhangi bir geri bildirimin varsa veya projeye katkıda bulunmak istersen, [GitHub üzerinden issue açabilirsin]([GITHUB_PROJE_LINKI_BURADA](https://github.com/FrkRm/HissePortfoyYonetimi)).  
